@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+    <h1>Welcome to XYZ College</h1>
+    <h2>About Us</h2>
+    <p>XYZ College offers a wide range of academic programs designed to prepare students for success.</p>
+    
+    <h2>Departments</h2>
+    <ul>
+        <li>Computer Science</li>
+        <li>Engineering</li>
+        <li>Business Administration</li>
+        <li>Arts and Humanities</li>
+    </ul>
+
+    <h2>Library</h2>
+    <p>Our library has over 50,000 books and digital resources.</p>
+
+    <h2>Faculty</h2>
+    <p>We have experienced professors dedicated to student success.</p>
+
+    <h2>Contact Us</h2>
+    <p>Email: contact@xyzcollege.edu</p>
+</body>
+</html>
