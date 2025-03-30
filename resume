@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manas's Resume</title>
+</head>
+<body style="font-family: Arial;">
+    <h1>Manas</h1>
+    <p>Email: manas12468@gmail.com | GitHub: <a href="https://github.com/manas402" target="_blank">manas402</a></p>
+    <hr>
+
+    <h2>Education</h2>
+    <table border="1">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>B.Tech in Computer Science</td>
+            <td>Mala Jyothi</td>
+            <td>2024 - 2028</td>
+        </tr>
+    </table>
+
+    <h2>Work Experience</h2>
+    <p>Currently a student, actively learning and working on projects.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming Languages: C, C++, Python, Java</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Git & GitHub</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="https://github.com/manas402" target="_blank">My GitHub Projects</a></li>
+    </ul>
+</body>
+</html>
