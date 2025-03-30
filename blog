@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovative Tech Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        .blog-post {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+        }
+        .blog-post h2 {
+            color: #333;
+        }
+        .blog-post p {
+            color: #666;
+        }
+        .read-more {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .read-more:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>InnovateTech Blog</h1>
+        <p>Exploring the latest in technology, AI, and innovation</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">AI</a>
+        <a href="#">Startups</a>
+        <a href="#">Blockchain</a>
+        <a href="#">Gadgets</a>
+        <a href="#">About</a>
+    </nav>
+
+    <div class="container">
+        <div class="blog-post">
+            <h2>How AI is Revolutionizing the World</h2>
+            <p>Artificial Intelligence (AI) is transforming industries, from healthcare to finance. Learn how AI is shaping the future...</p>
+            <a href="#" class="read-more">Read More</a>
+        </div>
+
+        <div class="blog-post">
+            <h2>Top 5 Startups to Watch in 2025</h2>
+            <p>Innovative startups are changing the game. Here are the top five startups making waves in the industry...</p>
+            <a href="#" class="read-more">Read More</a>
+        </div>
+
+        <div class="blog-post">
+            <h2>The Rise of Web3 and Blockchain</h2>
+            <p>Decentralization is taking over. Find out how Web3 and blockchain are redefining the internet...</p>
+            <a href="#" class="read-more">Read More</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 InnovateTech Blog | Powered by Passion & Innovation</p>
+    </footer>
+
+</body>
+</html>
